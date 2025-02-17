@@ -17,9 +17,8 @@
 
 
 <h3 align="left">My Contributions :</h3>
-<p>
-  ![snake animation](https://github.com/<seu Pratik3c>/<seu Pratik3c>/blob/output/github-contribution-grid-snake2.svg)
-</p>
+<img src="https://raw.githubusercontent.com/Pratik3c/Pratik3c/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 <h1 align="center">⚡ Current Stats ⚡</h1>
