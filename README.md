@@ -1,3 +1,7 @@
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=35&pause=900&width=435&lines=%3C+Hey+everyone+!++%2F%3E;%3C+I'm+Pratik+Mandalkar++%2F%3E" alt="Typing SVG" /></a>
+<hr>
+
 <h1 align="center">LeetCode Info<h1>  
 <p align="center">
   <a href="https://leetcode.com/u/its-pratik21/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
