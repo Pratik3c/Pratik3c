@@ -28,7 +28,7 @@
 <h1 align="center">Technical Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,git,github,arduino,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,mysql,py,r,regex,git,github,arduino,vscode" />
   </a>
 </p>
 
