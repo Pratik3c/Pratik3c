@@ -1,11 +1,9 @@
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=35&pause=900&width=435&lines=%3C+Hey+everyone+!++%2F%3E;%3C+I'm+Pratik+Mandalkar++%2F%3E" alt="Typing SVG" /></a>
 
-###
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
 
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 38px>&nbsp;&nbsp; About Me
 
 <img align = "right" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  height=200px width = 400px></img>
   
@@ -39,7 +37,12 @@
 <h1 align="center">Technical Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,mysql,py,r,regex,git,github,arduino,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,mysql,py,r,regex,git,github,arduino,vscode,bash,js,matlab" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,sklearn" />
   </a>
 </p>
 
