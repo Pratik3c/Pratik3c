@@ -5,14 +5,19 @@
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 38px>&nbsp;&nbsp; About Me
 
-<img align = "right" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  height=200px width = 400px></img>
-  
-- 👋 I'm a passionate Coder.
-- 🏫 Pre-final year B.Tech IT student at Vishwakarma Institute Technology, Pune.
-- 🧑‍💻 My expertise in Web Dev include MERN Stack.
-- ⭐ I like to make AI modals and play around them.
-- ♾️ Eager & Enjoy to learn ෴❤️ BlockChain ❤️෴ .
-- 🙂 In my working time, I code & In  my free time, I code ......
+<img align = "right" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  height=190px width = 400px></img>
+
+```python
+class PratikMandalkar:
+    def __init__(self):
+        self.role = "Software Developer & AI Enthusiast"
+        self.education = "B.Tech in IT @ VIT Pune"
+        self.interests = ["Web Development", "Machine Learning", "LLMs"]
+        
+    def say_hi(self):
+        print("Let's build something amazing together! 🚀")
+
+```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
 
@@ -34,6 +39,7 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/its-pratik21?theme=dark&font=Nunito&ext=heatmap">  
 </p>
 
+
 <h1 align="center">Technical Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -51,14 +57,29 @@
 <img src="https://raw.githubusercontent.com/Pratik3c/Pratik3c/output/snake.svg" alt="Snake animation" />
 </div>
 
+---
 
 <h1 align="center">⚡ Current Stats ⚡</h1>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Pratik3c&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Pratik3c&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik3c&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=Pratik3c&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Pratik3c&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
-  <br/>
+<p align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik3c&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_bust=20250806" alt="top langs"/>
+</p>
 
-<br/><br/>
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <p>💡 Open for collaborations and interesting projects!</p>
+  <p>🌟 Let's build something amazing together!</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+---
