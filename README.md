@@ -5,7 +5,7 @@
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 38px>&nbsp;&nbsp; About Me
 
-<img align = "right" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  height=190px width = 400px></img>
+<img align = "right" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  height=250px width = 335px></img>
 
 ```python
 class PratikMandalkar:
