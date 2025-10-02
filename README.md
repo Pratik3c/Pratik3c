@@ -1,9 +1,9 @@
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=35&pause=900&width=435&lines=%3C+Hey+everyone+!++%2F%3E;%3C+I'm+Pratik+Mandalkar++%2F%3E" alt="Typing SVG" /></a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
-
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 38px>&nbsp;&nbsp; About Me
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
+---
+🕵️ About Me
 
 <img align = "right" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  height=250px width = 335px></img>
 
@@ -19,8 +19,8 @@ class PratikMandalkar:
 
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
-
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">  -->
+---
 ###
 
 <!-- <h1 align="center">LeetCode Info<h1>  
@@ -68,6 +68,25 @@ class PratikMandalkar:
 <p align="center">
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik3c&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_bust=20250806" alt="top langs"/>
 </p>
+
+---
+
+## 🧭 Current Navigation
+
+```mermaid
+flowchart TD
+    A((Data Engineering & Analytics)) --> B[ETL Pipelines]
+    A --> C[Data Warehouses]
+    A --> D[Data Visualization]
+    A --> E[Big Data Tools]
+    F((Python Development)) --> G[Web Development]
+    F --> H[Automation Scripts]
+    F --> I[APIs & Backend]
+    F --> J[Data Processing]
+    K((Frontend Development)) --> L[HTML/CSS/JS]
+    K --> M[React]
+    K --> N[Responsive Design]
+```
 
 ---
 
