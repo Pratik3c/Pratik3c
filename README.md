@@ -23,21 +23,21 @@ class PratikMandalkar:
 
 ###
 
-<h1 align="center">LeetCode Info<h1>  
+<!-- <h1 align="center">LeetCode Info<h1>  
 <p align="center">
   <a href="https://leetcode.com/u/its-pratik21/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
   <a href="https://leetcode.com/u/its-pratik21/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
   <a href="https://leetcode.com/u/its-pratik21/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" alt="jyot" height="100" width="100" /></a>
   <a href="https://github.com/its-pratik21" target="_blank">
     <img  align="center" src="Top_SQL_50.gif" alt="SQL Badge" height="100" width="100" />
-  </a>
+  </a> -->
 <!--   <a href="https://github.com/its-pratik21" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" alt="JavaScript30" height="100" width="100" />
   </a> -->
-</p>
+<!-- </p>
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/its-pratik21?theme=dark&font=Nunito&ext=heatmap">  
-</p>
+</p> -->
 
 
 <h1 align="center">Technical Skills</h1>
@@ -48,7 +48,7 @@ class PratikMandalkar:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,sklearn" />
+    <img src="https://skillicons.dev/icons?i=opencv,sklearn,flask,postman,react,sqlite" />
   </a>
 </p>
 
