@@ -10,18 +10,18 @@
 ```python
 class PratikMandalkar:
     def __init__(self):
-        self.role = "Software Developer & AI Enthusiast"
+        self.role = "Software Developer & Data Enthusiast"
         self.education = "B.Tech in IT @ VIT Pune"
-        self.interests = ["Web Development", "Machine Learning", "LLMs"]
+        self.interests = ["Data Engineering","Web Development","AIML"]
         
     def say_hi(self):
         print("Let's build something amazing together! 🚀")
 
 ```
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">  -->
----
-###
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
+
+
 
 <!-- <h1 align="center">LeetCode Info<h1>  
 <p align="center">
