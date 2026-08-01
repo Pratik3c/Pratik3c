@@ -48,7 +48,12 @@ class PratikMandalkar:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,sklearn,flask,postman,react,sqlite" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,npm,redis,tailwind,ts,ubuntu,vite,githubactions,kafka,mongodb,netlify" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,sklearn,flask,postman,react,sqlite,express" />
   </a>
 </p>
 
@@ -62,12 +67,9 @@ class PratikMandalkar:
 <h1 align="center">⚡ Current Stats ⚡</h1>
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=Pratik3c&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Pratik3c&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
-<p align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik3c&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_bust=20250806" alt="top langs"/>
-</p>
+</p> -->
 
 ---
 
@@ -75,17 +77,31 @@ class PratikMandalkar:
 
 ```mermaid
 flowchart TD
-    A((Data Engineering & Analytics)) --> B[ETL Pipelines]
-    A --> C[Data Warehouses]
-    A --> D[Data Visualization]
-    A --> E[Big Data Tools]
-    F((Python Development)) --> G[Web Development]
-    F --> H[Automation Scripts]
-    F --> I[APIs & Backend]
-    F --> J[Data Processing]
-    K((Frontend Development)) --> L[HTML/CSS/JS]
-    K --> M[React]
-    K --> N[Responsive Design]
+    A((Technical Skills))
+
+    %% Data Engineering Branch
+    A --> B[Data Engineering & Analytics]
+    B --> B1[ETL Pipelines]
+    B --> B2[Data Warehouses]
+    B --> B3[Data Visualization]
+    B --> B4[Big Data Tools]
+
+    %% Full Stack Branch
+    A --> C[Full Stack Development]
+
+    %% Python Development
+    C --> D[Python Development]
+    D --> D1[AI Agents]
+    D --> D2[Flask Apps]
+    D --> D3[ML Models]
+    D --> D4[Automation Scripts]
+
+    %% MERN Development
+    C --> E[MERN Development]
+    E --> E1[Web Apps]
+    E --> E2[Chat Bots]
+    E --> E3[Responsive Design]
+    E --> E4[API Handling]
 ```
 
 ---
